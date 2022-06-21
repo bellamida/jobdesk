@@ -58,6 +58,7 @@ body {
   line-height: 1.5;s
   color: #212529;
   text-align: left;
+  background-color: rgb(246, 246, 248);
   background-image: url("../images/bcg2.jpg") !important;
   background-position: left top !important;
   background-size: 40vh !important;
